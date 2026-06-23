@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **ashaikh6438@gmail.com** For Collaboration/Project or Anyt
 - 🔭 **I’m currently working on:** Programming & Github Projects
 - 👨🏼‍🎓 **I’m currently learning:** Data Science, AI & Machine learning
 - 👯 **I’m looking to collaborate on:** AI/ML & Data Science Projects
-- 🚀 **Skills:** Data Science, Python, C, C++,Java Script, HTML, Git & GitHub
+- 🚀 **Skills:** Data Science, Python, C, C++,Java Script, HTML, Git & GitHub ,SQL
 - 📫 **How to reach me:** ashaikh6438@gmail.com
 - 😊 **Goal:** Becoming a Professional AI Engineer
 - 😄 **Fun fact:** I Love Exploring Modern Technologies & AI
